@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://AnnieNajera.github.io/portfolio/my-first-post/</loc>
+    <loc>https://annienajera.github.io/portfolio/my-first-post/</loc>
     <lastmod>2017-10-03T15:54:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://AnnieNajera.github.io/portfolio/second-post/</loc>
+    <loc>https://annienajera.github.io/portfolio/second-post/</loc>
     <lastmod>2017-10-03T15:54:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://AnnieNajera.github.io/categories/</loc>
+    <loc>https://annienajera.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://AnnieNajera.github.io/</loc>
-    <lastmod>2017-10-03T15:54:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AnnieNajera.github.io/portfolio/</loc>
+    <loc>https://annienajera.github.io/</loc>
     <lastmod>2017-10-03T15:54:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://AnnieNajera.github.io/tags/</loc>
+    <loc>https://annienajera.github.io/portfolio/</loc>
+    <lastmod>2017-10-03T15:54:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://annienajera.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
